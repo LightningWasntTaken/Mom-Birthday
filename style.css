@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier Prime', monospace;
+font-family: 'Montserrat', sans-serif;
+color: white;
+background-color: #feae96;
+background-image: linear-gradient(315deg, #feae96 0%, #fe0944 74%);
+}
+#divone{
+    width: 80%;
+    background-color: white;
+    border-radius: 25px;
+    height: 28%;
+}
+.form-control{
+    height: 100%;
+}
+#lol:hover{
+    background-color: red;
+}
